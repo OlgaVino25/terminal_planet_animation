@@ -1,7 +1,8 @@
 
 # Анимированная планета в терминале
 
-![Planet Animation](planet.gif)
+![planet](https://github.com/user-attachments/assets/4d3820cb-3b5d-4231-a283-6fc37f96f3e6)
+
 
 Скрипт на Python, который создает анимацию вращающейся планеты с использованием символов ASCII и управляющих последовательностей (ANSI-escape кодов) для терминала.
 
