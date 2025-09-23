@@ -83,3 +83,5 @@ docs/_build/
 .env
 .env.local
 .htaccess
+
+*.gif
